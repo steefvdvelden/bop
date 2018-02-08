@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pro:processes xmlns:pro="http://localhost/test">
+	<proces>
+		<title>Proces controleren klant tevredenheid</title>
+		<filename>Proces_Check_Customer_Satisfaction.php</filename>
+	</proces>
+	<proces>
+		<title>Voorbeeld flow verloop met meerdere beslissingen</title>
+		<filename>Proces_Voorbeeld_Flow_Verloop.php</filename>
+	</proces>
+	<proces>
+		<title>Proces Acceptatie Order</title>
+		<filename>Proces_OrderAcceptatie.php</filename>
+	</proces>
+	<proces>
+		<title>Proces Voorraad Controle</title>
+		<filename>Proces_Voorraadcontrole.php</filename>
+	</proces>
+	<proces>
+		<title>Proces Ontvangen en Beoordelen Kooi Order</title>
+		<filename>Proces_Ontvangen_en_Beoordelen.php</filename>
+	</proces>
+</pro:processes>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pro:processes xmlns:pro="http://localhost/test">
+	<proces>
+		<title>Ophalen Relaties</title>
+		<filename>Proces_Example.php</filename>
+	</proces>
+</pro:processes>

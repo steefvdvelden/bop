@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pro:processes xmlns:pro="http://localhost/test">
+	<proces>
+		<title>Proces Aanmaken Aankoop order</title>
+		<filename>Proces_PurchaseOrderAanmaken.php</filename>
+	</proces>
+	<proces>
+		<title>Proces Produceren Semifinished Products</title>
+		<filename>Proces_ProductieRonde.php</filename>
+	</proces>
+</pro:processes>

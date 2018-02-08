@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry excluding="Voorbeelden|Voorbeelden/|Tools|Tools/|Kooij_BOP|Kooij_BOP/|Meijer_BOP|Meijer_BOP/|MSAccess|MSAccess/|MSSql|MSSql/" including="*.php|Meijer_Kooi/*.*" kind="src" path=""/>
+	<buildpathentry kind="src" path="Voorbeelden"/>
+	<buildpathentry kind="src" path="Tools"/>
+	<buildpathentry kind="src" path="Kooij_BOP"/>
+	<buildpathentry kind="src" path="Meijer_BOP"/>
+	<buildpathentry kind="src" path="MSAccess"/>
+	<buildpathentry kind="src" path="MSSql"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>

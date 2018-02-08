@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pro:processes xmlns:pro="http://localhost/test">
+	<proces>
+		<title>Proces ophalen contacten</title>
+		<filename>Proces_Show_Contacts.php</filename>
+	</proces>
+</pro:processes>
